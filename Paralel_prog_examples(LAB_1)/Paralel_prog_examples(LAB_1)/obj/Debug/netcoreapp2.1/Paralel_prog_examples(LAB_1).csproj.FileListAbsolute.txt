@@ -1,0 +1,11 @@
+C:\Users\Sangesh\source\repos\Paralel_prog_examples(LAB_1)\Paralel_prog_examples(LAB_1)\bin\Debug\netcoreapp2.1\Paralel_prog_examples(LAB_1).deps.json
+C:\Users\Sangesh\source\repos\Paralel_prog_examples(LAB_1)\Paralel_prog_examples(LAB_1)\bin\Debug\netcoreapp2.1\Paralel_prog_examples(LAB_1).runtimeconfig.json
+C:\Users\Sangesh\source\repos\Paralel_prog_examples(LAB_1)\Paralel_prog_examples(LAB_1)\bin\Debug\netcoreapp2.1\Paralel_prog_examples(LAB_1).runtimeconfig.dev.json
+C:\Users\Sangesh\source\repos\Paralel_prog_examples(LAB_1)\Paralel_prog_examples(LAB_1)\bin\Debug\netcoreapp2.1\Paralel_prog_examples(LAB_1).dll
+C:\Users\Sangesh\source\repos\Paralel_prog_examples(LAB_1)\Paralel_prog_examples(LAB_1)\bin\Debug\netcoreapp2.1\Paralel_prog_examples(LAB_1).pdb
+C:\Users\Sangesh\source\repos\Paralel_prog_examples(LAB_1)\Paralel_prog_examples(LAB_1)\obj\Debug\netcoreapp2.1\Paralel_prog_examples(LAB_1).csprojAssemblyReference.cache
+C:\Users\Sangesh\source\repos\Paralel_prog_examples(LAB_1)\Paralel_prog_examples(LAB_1)\obj\Debug\netcoreapp2.1\Paralel_prog_examples(LAB_1).csproj.CoreCompileInputs.cache
+C:\Users\Sangesh\source\repos\Paralel_prog_examples(LAB_1)\Paralel_prog_examples(LAB_1)\obj\Debug\netcoreapp2.1\Paralel_prog_examples(LAB_1).AssemblyInfoInputs.cache
+C:\Users\Sangesh\source\repos\Paralel_prog_examples(LAB_1)\Paralel_prog_examples(LAB_1)\obj\Debug\netcoreapp2.1\Paralel_prog_examples(LAB_1).AssemblyInfo.cs
+C:\Users\Sangesh\source\repos\Paralel_prog_examples(LAB_1)\Paralel_prog_examples(LAB_1)\obj\Debug\netcoreapp2.1\Paralel_prog_examples(LAB_1).dll
+C:\Users\Sangesh\source\repos\Paralel_prog_examples(LAB_1)\Paralel_prog_examples(LAB_1)\obj\Debug\netcoreapp2.1\Paralel_prog_examples(LAB_1).pdb

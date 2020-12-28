@@ -1,0 +1,11 @@
+C:\Users\Sangesh\source\repos\Parallel_Prog(LAB_3)\Parallel_Prog(LAB_3)\bin\Debug\netcoreapp2.1\Parallel_Prog(LAB_3).deps.json
+C:\Users\Sangesh\source\repos\Parallel_Prog(LAB_3)\Parallel_Prog(LAB_3)\bin\Debug\netcoreapp2.1\Parallel_Prog(LAB_3).runtimeconfig.json
+C:\Users\Sangesh\source\repos\Parallel_Prog(LAB_3)\Parallel_Prog(LAB_3)\bin\Debug\netcoreapp2.1\Parallel_Prog(LAB_3).runtimeconfig.dev.json
+C:\Users\Sangesh\source\repos\Parallel_Prog(LAB_3)\Parallel_Prog(LAB_3)\bin\Debug\netcoreapp2.1\Parallel_Prog(LAB_3).dll
+C:\Users\Sangesh\source\repos\Parallel_Prog(LAB_3)\Parallel_Prog(LAB_3)\bin\Debug\netcoreapp2.1\Parallel_Prog(LAB_3).pdb
+C:\Users\Sangesh\source\repos\Parallel_Prog(LAB_3)\Parallel_Prog(LAB_3)\obj\Debug\netcoreapp2.1\Parallel_Prog(LAB_3).csprojAssemblyReference.cache
+C:\Users\Sangesh\source\repos\Parallel_Prog(LAB_3)\Parallel_Prog(LAB_3)\obj\Debug\netcoreapp2.1\Parallel_Prog(LAB_3).csproj.CoreCompileInputs.cache
+C:\Users\Sangesh\source\repos\Parallel_Prog(LAB_3)\Parallel_Prog(LAB_3)\obj\Debug\netcoreapp2.1\Parallel_Prog(LAB_3).AssemblyInfoInputs.cache
+C:\Users\Sangesh\source\repos\Parallel_Prog(LAB_3)\Parallel_Prog(LAB_3)\obj\Debug\netcoreapp2.1\Parallel_Prog(LAB_3).AssemblyInfo.cs
+C:\Users\Sangesh\source\repos\Parallel_Prog(LAB_3)\Parallel_Prog(LAB_3)\obj\Debug\netcoreapp2.1\Parallel_Prog(LAB_3).dll
+C:\Users\Sangesh\source\repos\Parallel_Prog(LAB_3)\Parallel_Prog(LAB_3)\obj\Debug\netcoreapp2.1\Parallel_Prog(LAB_3).pdb
